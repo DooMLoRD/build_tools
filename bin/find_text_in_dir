@@ -1,0 +1,2 @@
+echo "searching for $1"
+grep -n -r "$1" .

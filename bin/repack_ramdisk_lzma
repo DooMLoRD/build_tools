@@ -1,0 +1,1 @@
+find . | cpio -o -H newc | lzma > ../$1.cpio.lzma
